@@ -13,6 +13,61 @@ Preset avanzado de **NTLite** enfocado en crear una versión de Windows extremad
 
 ---
 
+## 📥 Descarga
+
+🔗 **ISO personalizada lista para usar:**
+
+👉 https://drive.google.com/open?id=1TC46CFWcg7Gtt635GLEDxijm8919afEC&usp=drive_fs
+
+> ⚠️ Recomendado descargar con cuenta de Google para evitar límites.
+
+---
+
+## 🖼️ Imágenes reales de la instalación
+
+A continuación se muestran capturas reales del proceso y resultado final del sistema:
+
+### 🧩 Proceso de personalización en NTLite!
+![Captura de pantalla 2026-03-28 214437.png](images/Captura%20de%20pantalla%202026-03-28%20214437.png)
+
+### ⚙️ Configuración final aplicada
+![Captura de pantalla 2026-03-28 220345.png](images/Captura%20de%20pantalla%202026-03-28%20220345.png)
+
+### 🚀 Sistema ya optimizado
+![Captura de pantalla 2026-03-28 194752.png](images/Captura%20de%20pantalla%202026-03-28%20194752.png)
+
+> 💡 Puedes reemplazar estas imágenes por capturas propias del sistema ya instalado para mostrar resultados reales.
+
+---
+
+## 📦 Aplicaciones Integradas
+
+Este sistema incluye instaladores listos para ejecutarse automáticamente o de forma manual:
+
+- 💻 AnyDesk (AnyDesk.exe)
+- 🌐 Google Chrome (chrome_setup64)
+- 💬 Discord (DiscordSetup)
+- 📝 Notepad++ (npp_setup)
+- 📊 Microsoft Office 2016 (office2016_setup64)
+- 🔌 USBShow (usbshow_setup)
+- 📦 WinRAR (winrar_setup)
+
+> ✔️ Ideales para tener un entorno listo sin necesidad de descargar software adicional.
+
+---
+
+## 🔑 Activación Automática
+
+✔️ El sistema se activa automáticamente antes de iniciar el escritorio por primera vez.
+
+- Tipo: **Licencia digital permanente**
+- Método: Activación automática integrada en el proceso de instalación
+- No requiere intervención del usuario
+
+> ⚠️ Nota: Este proceso ocurre durante la instalación inicial del sistema.
+
+---
+
 ## 🚀 Objetivo
 
 Este preset está diseñado para:
@@ -41,7 +96,7 @@ El preset elimina **gran cantidad de funciones**, incluyendo:
 ### 🧹 Apps y Bloatware
 - Microsoft Store ❌
 - Xbox y servicios relacionados ❌
-- Cortana / Copilot ❌
+- Copilot ❌
 - Aplicaciones UWP innecesarias ❌
 - OneNote, Skype, Fotos, etc. ❌
 
