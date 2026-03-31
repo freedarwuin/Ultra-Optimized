@@ -17,11 +17,13 @@ Preset avanzado de **NTLite** enfocado en crear una versión de Windows extremad
 
 <p align="center">
   <a href="https://drive.google.com/open?id=1TC46CFWcg7Gtt635GLEDxijm8919afEC&usp=drive_fs" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20DESCARGAR%20ISO%20AHORA-FF0000?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/⬇️%20DESCARGA%20DIRECTA-FF0000?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
 
-> ⚠️ Recomendado descargar con cuenta de Google para evitar límites.
+<p align="center">
+  ⚠️ Recomendado descargar con cuenta de Google para evitar límites.
+</p>
 
 ---
 
